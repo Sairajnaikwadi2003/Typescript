@@ -1,4 +1,4 @@
-
+TYPESCRIPT 
 
 Why TypeScript over JavaScript?
 While JavaScript is the language of the web, TypeScript (TS) provides several advantages that help improve the development experience, especially for larger and more complex applications.
